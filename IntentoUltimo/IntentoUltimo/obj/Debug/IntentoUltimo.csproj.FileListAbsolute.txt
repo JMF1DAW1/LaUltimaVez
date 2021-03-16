@@ -1,0 +1,10 @@
+C:\Users\solar\source\repos\JMF1DAW1\LaUltimaVez\IntentoUltimo\IntentoUltimo\bin\Debug\IntentoUltimo.exe.config
+C:\Users\solar\source\repos\JMF1DAW1\LaUltimaVez\IntentoUltimo\IntentoUltimo\bin\Debug\IntentoUltimo.exe
+C:\Users\solar\source\repos\JMF1DAW1\LaUltimaVez\IntentoUltimo\IntentoUltimo\bin\Debug\IntentoUltimo.pdb
+C:\Users\solar\source\repos\JMF1DAW1\LaUltimaVez\IntentoUltimo\IntentoUltimo\obj\Debug\IntentoUltimo.csprojAssemblyReference.cache
+C:\Users\solar\source\repos\JMF1DAW1\LaUltimaVez\IntentoUltimo\IntentoUltimo\obj\Debug\IntentoUltimo.Form1.resources
+C:\Users\solar\source\repos\JMF1DAW1\LaUltimaVez\IntentoUltimo\IntentoUltimo\obj\Debug\IntentoUltimo.Properties.Resources.resources
+C:\Users\solar\source\repos\JMF1DAW1\LaUltimaVez\IntentoUltimo\IntentoUltimo\obj\Debug\IntentoUltimo.csproj.GenerateResource.cache
+C:\Users\solar\source\repos\JMF1DAW1\LaUltimaVez\IntentoUltimo\IntentoUltimo\obj\Debug\IntentoUltimo.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\JMF1DAW1\LaUltimaVez\IntentoUltimo\IntentoUltimo\obj\Debug\IntentoUltimo.exe
+C:\Users\solar\source\repos\JMF1DAW1\LaUltimaVez\IntentoUltimo\IntentoUltimo\obj\Debug\IntentoUltimo.pdb
