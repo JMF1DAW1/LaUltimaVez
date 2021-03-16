@@ -19,11 +19,11 @@ namespace IntentoUltimo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int num;
+            double cap;
+            // CAMBIO EL INT POR DOUBLE
+            cap = double.Parse(textBox1.Text);
 
-            num = int.Parse(textBox1.Text);
-
-            textBox2.Text = num.ToString();
+            textBox2.Text = cap.ToString();
         }
     }
 }
